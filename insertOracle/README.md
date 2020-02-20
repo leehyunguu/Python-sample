@@ -6,6 +6,10 @@
 ```python
 py -m pip install cx_Oracle
 ```
+- configparser 모듈을 설치한다.
+```python
+py -m pip install configparser
+```
 - 연결하려 하는 Oracle DB의 환경에 맞춰 [Oracle Instant Client]를 설치한다.
 - 시스템 환경변수 PATH에 설치한 Oracle Instant Client의 경로를 추가한다
 
